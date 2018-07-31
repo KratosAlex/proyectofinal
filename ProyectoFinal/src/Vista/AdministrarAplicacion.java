@@ -11,7 +11,7 @@ import Modelo.ValidarUsuario;
 
 /**
  *
- * @author T-101
+ * @author KRATOS
  */
 public class AdministrarAplicacion extends javax.swing.JFrame {
 

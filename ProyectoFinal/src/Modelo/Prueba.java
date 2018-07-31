@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 package Modelo;
-import com.sun.istack.internal.logging.Logger;
+
 import java.util.*;
-import java.util.logging.Level;
+
 /**
  *
- * @author T-101
+ * @author kratos
  */
 public class Prueba {
     

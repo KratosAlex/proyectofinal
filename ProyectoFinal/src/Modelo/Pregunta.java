@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author juan_
+ * @author kratos
  */
 public class Pregunta implements Serializable{
    private String titulo;

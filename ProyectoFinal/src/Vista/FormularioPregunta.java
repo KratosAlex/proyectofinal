@@ -16,7 +16,7 @@ import modelo.Pregunta;
 
 /**
  *
- * @author juan_
+ * @author KRATOS
  */
 public class FormularioPregunta extends javax.swing.JFrame {
 

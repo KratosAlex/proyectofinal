@@ -7,7 +7,7 @@ package Modelo;
 
 /**
  *
- * @author T-101
+ * @author kratos
  */
 public class ValidarUsuario {
 

@@ -7,7 +7,7 @@ package Vista;
 
 /**
  *
- * @author T-101
+ * @author KRATOS
  */
 public class InicioAplicacion extends javax.swing.JFrame {
 

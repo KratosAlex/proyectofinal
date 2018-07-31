@@ -9,7 +9,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author T-101
+ * @author kratos
  */
 public class Usuario {
     private String login;

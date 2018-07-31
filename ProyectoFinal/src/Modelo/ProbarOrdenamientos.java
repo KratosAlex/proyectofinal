@@ -10,7 +10,7 @@ import java.util.*;
 
 /**
  *
- * @author T-101
+ * @author kratos
  */
 public class ProbarOrdenamientos {
     

@@ -7,7 +7,7 @@ package Vista;
 
 /**
  *
- * @author T-101
+ * @author KRATOS
  */
 public class TestAplicacion extends javax.swing.JFrame {
 
